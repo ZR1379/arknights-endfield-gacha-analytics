@@ -1,0 +1,19 @@
+# Simulation Data
+sim_data/*.csv
+
+# Personal Workspace
+*.txt
+
+# Python & Environment
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE Settings
+.vscode/

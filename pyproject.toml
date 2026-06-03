@@ -1,0 +1,15 @@
+# 專案描述：《明日方舟：終末地》卡池的蒙地卡羅模擬與統計數據分析。
+[project]
+name = "arknights_endfield_gacha_analytics"
+version = "0.1.0"
+description = "Monte Carlo simulation and statistical data analysis for Arknights: Endfield gacha system."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+]
