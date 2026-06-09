@@ -15,8 +15,8 @@ This project utilizes Python and Monte Carlo methods to simulate and analyze the
 
 ### 🎯 Current Status
 - [x] Character Pool Monte Carlo Simulation
-- [ ] Weapon Pool Simulation
-- [ ] Data Visualization & Statistical Analytics
+- [x] Weapon Pool Simulation
+- [x] Data Visualization & Statistical Analytics
 
 ### 🛠️ Tech Stack
 - Python (managed by `uv`)
@@ -30,8 +30,8 @@ This project utilizes Python and Monte Carlo methods to simulate and analyze the
 
 ### 🎯 目前進度
 - [x] 角色池蒙地卡羅模擬
-- [ ] 武器池模擬
-- [ ] 數據視覺化與統計分析展現
+- [x] 武器池模擬
+- [x] 數據視覺化與統計分析展現
 
 ### 🛠️ 開發環境與工具
 - Python (使用 `uv` 進行套件管理)
