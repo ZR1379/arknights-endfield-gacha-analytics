@@ -127,6 +127,8 @@ Due to the large file size of the raw $10^6$-trial CSV dataset, two execution pi
   * Special thanks to *Arknights: Endfield* for providing a rich and challenging dynamic gacha system design.
   * Thanks to the Python open-source community for providing powerful data analytics and visualization ecosystems (`uv`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`).
 
+---
+
 ## 繁體中文
 
 本專案為一套專為《明日方舟：終末地》設計的數據分析與統計視覺化。針對遊戲內交織的抽卡機制，透過蒙地卡羅模擬計算出 5 大核心模式下的機率分佈、累積分佈、期望值與標準差...等各項敘述性統計指標。
